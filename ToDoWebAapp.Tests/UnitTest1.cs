@@ -9,7 +9,7 @@ namespace ToDoWebAapp.Tests
         [TestMethod]
         public void SayHello()
         {
-           
+            Console.WriteLine("This test case has been passed");
         }
     }
 }
